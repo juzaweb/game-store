@@ -1,0 +1,11 @@
+{
+    "name": "GameStore",
+    "alias": "game-store",
+    "description": "Game module for managing games and game categories",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Juzaweb\\Modules\\GameStore\\Providers\\GameServiceProvider"
+    ],
+    "files": []
+}
